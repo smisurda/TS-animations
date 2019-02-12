@@ -1,7 +1,7 @@
 /**
  * @file first-canvas.ts
  * @author Samantha L. Misurda
- * @description Drives the animations for the Canvas example
+ * @description A short example to grow and shrink a circle using TS and the HTML Canvas
  */
 
  let mainCanvas = <HTMLCanvasElement>document.getElementById("the-canvas");
