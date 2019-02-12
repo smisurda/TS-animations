@@ -1,1 +1,0 @@
-A simple example where a circle rapidly grows and shrinks in size.
